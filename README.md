@@ -18,8 +18,9 @@ me.say_hi()
 ```
 
 
-##Leetcode
-[LeetCode Stats](https://leetcard.jacoblin.cool/TommyZhou?theme=light&font=Hind)
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/TommyZhou?theme=light&font=El%20Messiri)
+
 <!--
 **Tommyzhou1/Tommyzhou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
